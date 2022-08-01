@@ -1,0 +1,11 @@
+tw3: algorithm : Naive Bayes
+
+STEP1: Install packages tm, wordcloud,e1071
+step2: create dataframe using csv file
+step3: Data preparation - cleaning and standardizing text data
+step4: data pre-processing
+step5: translate all letters to lower case,
+step6: Split out training and test sets
+step7: reducing the DTM
+step8: Accuracy of the model is being calculated
+

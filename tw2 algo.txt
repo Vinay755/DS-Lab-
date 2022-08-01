@@ -1,0 +1,12 @@
+tw2 algorithm:Knn
+step1: Kernelknn
+step2: Load the data
+step3: Pre-process the data
+step4: Scale the data since the output depends on the distance calculations
+step5: labels should be numeric and begin from 1 since classification is used
+step6: random split in train-test and test set.
+step7: evaluation metric
+step8: A simple k-nearest-neighbors can be used in classification 
+step9: Choose from existing Kernels which give optimal solutions
+step10: choose Self defined Kernel function(Normal Distribution)
+step 11: Calculate Accuracy

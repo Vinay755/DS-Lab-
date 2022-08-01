@@ -1,0 +1,9 @@
+tw4: algorithm: logistic 
+step1: packages caret, tidyr,ggplot2,ggthemes
+step2: Attach the dataset to the environment
+step3: create dataframe
+step4: Assign datasets for training(80% training 20% testing)
+step5: plot Histogram graph
+step6: Box plot
+step7: Scatter plot
+step8: Faceting: Producing multiple charts in one plot

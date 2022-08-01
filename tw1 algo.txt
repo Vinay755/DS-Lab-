@@ -1,0 +1,16 @@
+tw1 Linear Regresion
+
+Step 1: Collection of data from library mlbench
+Step 2: Install dplyr for manupulation
+Step 3: Use library ggplot2 and reshape2
+Step 4: Load data in housing variable
+Step 5: By using ggplot x as median and y as density
+Step 6: We get density plot of median value house price
+Step 7: Get the summary that is median and mean value
+Step 8: We get individual graph for each variable
+Step 9: Distribute the data sets for traning and testing
+	75% traning and 25% testing
+Step 10: Fit a linear model
+Step 11: Obtain a r-squared value for your model and examine diagnostic plots
+Step 12: Create data frame for predicted values and original values
+Step 13: Plot to visualize the performance of your model
